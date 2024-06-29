@@ -1,5 +1,5 @@
 ***
-# Weather APİ
+# Weather API
 ***
 ## Technology Stack :
 
